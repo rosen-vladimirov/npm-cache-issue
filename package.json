@@ -1,0 +1,24 @@
+{
+  "name": "npm-cache-issue",
+  "version": "1.0.0",
+  "description": "Describes incorrect behavior of npm cache when working with .tgz files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosen-vladimirov/npm-cache-issue.git"
+  },
+  "keywords": [
+    "npm",
+    "cache",
+    "issue"
+  ],
+  "author": "Rosen Vladimirov",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rosen-vladimirov/npm-cache-issue/issues"
+  },
+  "homepage": "https://github.com/rosen-vladimirov/npm-cache-issue#readme"
+}
