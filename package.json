@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/rosen-vladimirov/npm-cache-issue/issues"
   },
-  "homepage": "https://github.com/rosen-vladimirov/npm-cache-issue#readme"
+  "homepage": "https://github.com/rosen-vladimirov/npm-cache-issue#readme",
+  "dependencies": {
+    "npm": "^2.15.11"
+  }
 }
